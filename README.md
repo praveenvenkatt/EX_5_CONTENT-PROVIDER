@@ -30,11 +30,10 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the contact name and phone number using content providers.
-Developed by: PRAVEEN V
+Developed by: Praveen V
 Registeration Number :212222040121
 */
 ```
-
 ## Mainactivity.java:
 ```
 package com.example.ex5;
@@ -96,6 +95,9 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("Total Count of Contacts: "+count);}
 }
+
+
+
 ```
 ## Activitymain.XML:
 ```
@@ -146,7 +148,14 @@ public class MainActivity extends AppCompatActivity {
         </activity>
     </application>
 
-</manifest>![Screenshot 2024-09-17 194637](https://github.com/user-attachments/assets/3e17ead9-eb04-43f3-b6e5-10ddd1dae911)
+</manifest>
+
+
+
+
+
+
+
 
 ```
 
@@ -154,8 +163,8 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/fc6194d0-2547-4b2b-b77f-be7c2d0b2899)
-![image](https://github.com/user-attachments/assets/25f9c3b7-d55d-4138-8027-752d06507e34)
+ <img src="https://github.com/user-attachments/assets/fc6194d0-2547-4b2b-b77f-be7c2d0b2899" alt="Image 1" width="300">
+  <img src="https://github.com/user-attachments/assets/25f9c3b7-d55d-4138-8027-752d06507e34" alt="Image 2" width="300">
 
 
 
